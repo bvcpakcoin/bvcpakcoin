@@ -1,4 +1,5 @@
 pragma solidity ^0.8.0;
+
 maytoken name is bep20
 name_;bvcpakcoin
         _symbol =bvc
