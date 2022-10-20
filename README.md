@@ -2,8 +2,8 @@ pragma solidity ^0.8.0;
 
 maytoken name is bep20
 name_;bvcpakcoin
-        _symbol =bvc
-        _decimals = 18;
+        _symbol =
+        _decimals = ;
 // File: @openzeppelin/contracts/utils/bvc.sol
  * @dev Provides information about the current execution context, including the
  * sender of the transaction and its data. While these are generally available
